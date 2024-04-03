@@ -1,6 +1,5 @@
 # Projects
-#Project--|
-          |
+
           # Certificate
           |
           |
