@@ -9,6 +9,9 @@
           |               • Programming Languages: Python,ML,Flask,HTML,CSS
           |
           # React Project(unfinished_responsive_part)-->  # Ambic Infotech React Project
-                                                            ## Overview ##
-                                                            This repository contains the screenshot of a React project developed for Ambic Infotech, a company specializing in outsourcing services.
-                                                            Responsive part in this website is still undone so ...I just uploaded screenshots of my react project.
+          |                                                 ## Overview ##
+          |                                                  This repository contains the screenshot of a React project developed for Ambic Infotech, a company specializing in outsourcing services.
+          |                                                  Responsive part in this website is still undone so ...I just uploaded screenshots of my react project.
+          |
+          |
+          # Portfolio(For model creater) --> I created 3d model creater portfolio for my friend (Abhinav) using multiple images.
